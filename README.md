@@ -1,6 +1,6 @@
 # How to create a documentation site with Docsify and GitHub Pages
 Use Docsify to create documentation web pages to publish on GitHub Pages.
-[![](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/browser_web_internet_website.png?itok=g5B_Bw62)]
+![](https://opensource.com/sites/default/files/styles/image-full-size/public/lead-images/browser_web_internet_website.png?itok=g5B_Bw62)
 
 Documentation is an essential part of making any open source project useful to users. But it's not always developers' top priority, as they may be more focused on making their application better than on helping people use it. This is why making it easier to publish documentation is so valuable to developers. In this tutorial, I'll show you one option for doing so: combining the [Docsify](http://docsify.js.org/ "Docsify") documentation generator with [GitHub Pages](http://pages.github.com/ "GitHub Pages").
 
