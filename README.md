@@ -9,4 +9,5 @@ If you prefer to learn by video, you can access the YouTube version of this how-
 By default, GitHub Pages prompts users to use [Jekyll](https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll "Jekyll"), a static site generator that supports HTML, CSS, and other web technologies. Jekyll generates a static website from documentation files encoded in Markdown format, which GitHub automatically recognizes due to their .md or .markdown extension. While this setup is nice, I wanted to try something else.
 
 Fortunately, GitHub Pages' HTML file support means you can use other site-generation tools, including Docsify, to create a website on the platform. Docsify is an MIT-Licensed open source project with [features](https://docsify.js.org/#/?id=features "features") that make it easy to create an attractive advanced documentation site on GitHub Pages.
+
 ![](https://opensource.com/sites/default/files/uploads/docsify1_ui.jpg)
